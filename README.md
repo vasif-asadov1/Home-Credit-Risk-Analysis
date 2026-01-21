@@ -10,11 +10,13 @@ OCCUPATION_TYPE). Instead of standard One-Hot Encoding, which causes dimensional
 signal while maintaining a compact feature space. The final output is a fully numeric, validated Parquet file, optimized for immediate
 ingestion by gradient boosting models. 
 
-## Machine Learning 
-[Data Cleaning Report: ] (https://vasif-asadov1.github.io/Home-Credit-Risk-Analysis/Machine%20Learning/01_data_cleaning.html)
+## Machine Learning
 
-[ML Classification Models: ] (https://vasif-asadov1.github.io/Home-Credit-Risk-Analysis/Machine%20Learning/02_ml_classification_models.html)
+- [Data Cleaning Report](https://vasif-asadov1.github.io/Home-Credit-Risk-Analysis/Machine%20Learning/01_data_cleaning.html)
+- [ML Classification Models](https://vasif-asadov1.github.io/Home-Credit-Risk-Analysis/Machine%20Learning/02_ml_classification_models.html)
 
-## SQL Analysis 
-[DuckDB SQL Analysis: ] (https://vasif-asadov1.github.io/Home-Credit-Risk-Analysis/SQL%20queries/duckdb_sql_analysis.html)
-[Feature Engineering with DuckDB SQL:] (https://vasif-asadov1.github.io/Home-Credit-Risk-Analysis/SQL%20queries/duckdb_feature_engineering.html)
+## SQL Analysis
+
+- [DuckDB SQL Analysis](https://vasif-asadov1.github.io/Home-Credit-Risk-Analysis/SQL%20queries/duckdb_sql_analysis.html)
+- [Feature Engineering with DuckDB SQL](https://vasif-asadov1.github.io/Home-Credit-Risk-Analysis/SQL%20queries/duckdb_feature_engineering.html)
+
